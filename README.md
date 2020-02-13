@@ -1,5 +1,7 @@
 # vue_cc
 
+Learning some Vue
+
 ## Project setup
 ```
 npm install
